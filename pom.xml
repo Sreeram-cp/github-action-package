@@ -22,7 +22,7 @@
         <repository>
             <id>github</id>
             <name>GitHub Packages</name>
-            <url>https://maven.pkg.github.com/<Sreeram-cp>/<github-action-package></url>
+            <url>https://maven.pkg.github.com/Sreeram-cp/github-action-package</url>
         </repository>
     </distributionManagement>
 
