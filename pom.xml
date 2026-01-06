@@ -5,10 +5,10 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>org.demo</groupId>
-    <artifactId>java-github-packages-demo</artifactId>
-    <version>1.0.0</version>
-    <packaging>jar</packaging>
+ <groupId>com.github.Sreeram-cp</groupId>
+ <artifactId>java-github-packages-demo</artifactId>
+ <version>1.0.0</version>
+ <packaging>jar</packaging>
 
     <name>Java GitHub Packages Demo</name>
 
