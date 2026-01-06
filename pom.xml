@@ -7,7 +7,7 @@
 
  <groupId>com.github.Sreeram-cp</groupId>
  <artifactId>java-github-packages-demo</artifactId>
- <version>1.0.0</version>
+ <version>1.0.1</version>
  <packaging>jar</packaging>
 
     <name>Java GitHub Packages Demo</name>
